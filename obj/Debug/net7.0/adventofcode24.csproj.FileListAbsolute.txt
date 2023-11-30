@@ -1,0 +1,15 @@
+/Users/muratyilmaz/Documents/adventofcode24/bin/Debug/net7.0/adventofcode24
+/Users/muratyilmaz/Documents/adventofcode24/bin/Debug/net7.0/adventofcode24.deps.json
+/Users/muratyilmaz/Documents/adventofcode24/bin/Debug/net7.0/adventofcode24.runtimeconfig.json
+/Users/muratyilmaz/Documents/adventofcode24/bin/Debug/net7.0/adventofcode24.dll
+/Users/muratyilmaz/Documents/adventofcode24/bin/Debug/net7.0/adventofcode24.pdb
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.csproj.AssemblyReference.cache
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.AssemblyInfoInputs.cache
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.AssemblyInfo.cs
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.csproj.CoreCompileInputs.cache
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.dll
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/refint/adventofcode24.dll
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.pdb
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/adventofcode24.genruntimeconfig.cache
+/Users/muratyilmaz/Documents/adventofcode24/obj/Debug/net7.0/ref/adventofcode24.dll
