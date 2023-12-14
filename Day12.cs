@@ -37,8 +37,6 @@ namespace aoc2023
         Dictionary<string,UInt128> passkey =  new Dictionary<string,UInt128>(); 
 
         //Part 1
-        int xmax=input[0].Length;
-        int ymax=inputcount;
         int i=0;
         foreach(string s in input){
             string[] code=s.Split(" ");
@@ -147,9 +145,6 @@ namespace aoc2023
             r++;
             passkey.Clear();
         }
-
-        UInt128 t1=result1;
-
         //Part 2
         foreach(string s in coordinates){
             coordinates2.Add(s+"?"+s+"?"+s+"?"+s+"?"+s);
@@ -161,9 +156,6 @@ namespace aoc2023
             temp=temp.Concat(s).ToArray();
             springs2.Add(temp);            
         }
-        
-        //Results
-        Console.WriteLine("Result 1 is .... :" +result1);
         r=0;
         while (r<coordinates2.Count){
             string codex=coordinates2[r];
@@ -171,7 +163,6 @@ namespace aoc2023
             result2+=Check(codex, springs2[r]);
             r++;
             passkey.Clear();
-            Console.WriteLine("Line....."+r+"...."+result2);
         }
     
 
